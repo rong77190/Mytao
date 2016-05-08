@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tao-common:war">
+    <output-path>$PROJECT_DIR$/tao-common/target</output-path>
+    <root id="archive" name="tao-common.war">
+      <element id="artifact" artifact-name="tao-common:war exploded" />
+    </root>
+  </artifact>
+</component>
